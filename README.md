@@ -123,4 +123,5 @@ None
 
 # 6. License
 
+Current forked repo is used for academic project "Treasure Hunter"
 
